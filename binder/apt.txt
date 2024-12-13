@@ -1,0 +1,4 @@
+cmake 
+qtbase5-dev
+qt5-qmake
+qtcreator
