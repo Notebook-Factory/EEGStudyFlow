@@ -12,3 +12,4 @@ numpy<2
 edfio
 matplotlib
 mne-qt-browser
+PyQt5
