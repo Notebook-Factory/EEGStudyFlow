@@ -1,7 +1,7 @@
 format: jb-book
 root: content/index.md
 chapters:
-  - file: content/explore_source.ipynb
-  # - file: content/init_bids_study.ipynb
+  # - file: content/explore_source.ipynb
+  - file: content/init_bids_study.ipynb
   # - file: content/quick_clean.ipynb
   # - file: content/erp_study.ipynb
