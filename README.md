@@ -17,6 +17,14 @@ If you are brand new to EEG analysis and are seeking the fundamentals from a the
 * [Learning EEG: a self-guided course and atlas](https://www.learningeeg.com)
 * [Virtual ERP Boot Camp: Introduction to ERPs](https://courses.erpinfo.org/courses/Intro-to-ERPs)
 * [EEG resources at the INCF Training Space](https://training.incf.org/topic-wise-search?filter=eeg)
+* Book: [An Introduction to the Event-Related Potential Technique](https://mitpress.mit.edu/9780262525855/an-introduction-to-the-event-related-potential-technique/)
+
+It is helpful to understand and know terminology such as: 
+* Bandpass Filter
+* Notch Filter
+* Frequency Bands (such as alpha, delta, theta, gamma) 
+* Power Analysis
+* 60-Hz Noise 
 
 ### Technical Skills
 
