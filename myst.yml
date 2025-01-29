@@ -1,12 +1,11 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: 'Little Science, Big Science, and Beyond'
-  subtitle: 'How Amateurs Shape the Scientific Landscape'
+  title: 'EEG Study Template'
   thebe:
     binder:
       url: https://binder-preview.conp.cloud
-      repo: agahkarakuzu/amateur-science
+      repo: agahkarakuzu/studytemplate
       ref: HEAD
   authors:
     - name: Evelyn McLean
@@ -25,7 +24,7 @@ project:
       corresponding: true
       email: nikola.stikov@polymtl.ca
       twitter: stikov
-      affiliations: polymtl; mhi; macedonia
+      affiliations: polymtl;
   affiliations:
     - id: polymtl
       institution: NeuroPoly Lab, Polytechnique Montreal
@@ -39,11 +38,7 @@ project:
       postal_code: H3T 1J4
       phone: 1 (514) 340-4711
   keywords:
-    - Amateur Science
-    - Patents
-    - History of Science
-  github: https://github.com/Andesha/EEGStudyFlow
-  banner: static/banner.jpg
+  github: https://github.com/Andesha/StudyTemplate
   venue: Neurolibre
   subject: Living Preprint
   numbering:
@@ -53,6 +48,9 @@ project:
   license: CC-BY-4.0
   abbreviations:
     MyST: Markedly Structured Markdown
+    EEG: Electroencephalography
+    BIDS: Brain Imaging Data Structure
+
   bibliography:
     - paper.bib
 site:
